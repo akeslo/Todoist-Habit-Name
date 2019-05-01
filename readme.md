@@ -13,4 +13,4 @@
 * Host the `todoist-habit.php` on a server
 * Use IFTTT or similar site/script to trigger the php page to run every morning at 12:15 AM
 
-###Inspired By: https://github.com/amitness/habitist
+### Inspired By: https://github.com/amitness/habitist
