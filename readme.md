@@ -1,4 +1,4 @@
-### Todoist - Habit Chain
+# Todoist - Habit Chain
 
 ## What is it
 * Break the chain habit tracking for todoist
