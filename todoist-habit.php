@@ -9,7 +9,7 @@
 
   #############################################################################
   //ENTER API KEY HERE
-  $Todoist = new FabianBeiner\Todoist\TodoistClient('8d91ce39ddc664edf78cf21784ec621c678a62f3');
+  $Todoist = new FabianBeiner\Todoist\TodoistClient('');
   #############################################################################
 
 
