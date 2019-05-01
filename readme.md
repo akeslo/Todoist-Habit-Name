@@ -4,8 +4,8 @@
 * Break the chain habit tracking for todoist
 
 ## Prerequisites
-This script uses the php library found here: https://github.com/FabianBeiner/Todoist-PHP-API-Library
-* Easiest to install via composer: `composer require fabian-beiner/todoist-php-api-library`
+* This script uses the php library found here: https://github.com/FabianBeiner/Todoist-PHP-API-Library
+  * Easiest to install via composer: `composer require fabian-beiner/todoist-php-api-library`
 
 ## How to use
 * Obtain your API key from https://todoist.com (Under Settings > Integrations)
